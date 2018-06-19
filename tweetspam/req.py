@@ -1,5 +1,0 @@
-#twitter keys
-consumer_key = MwRbyrYDpVl3ezaB52YL843hJ
-secret_key = OAMbMfDzfls2DNEhEr3UccPYSFl5Q3NOARqUkrPy7IUjhOW7rJ
-access_token = 2345928691-7D0naC0qmw8iXOpaGbtf7ng7bssHqnXfMsBtx1d
-access_secret = ZyqV0Vasxw9GNyHTLb0u9AUW2H146bF7g5C0bj9E4UBKp
